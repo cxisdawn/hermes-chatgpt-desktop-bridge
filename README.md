@@ -26,17 +26,6 @@
 
 ## 数据流
 
-```mermaid
-flowchart LR
-    A[Hermes 最新回复] --> B[/cg]
-    B --> C[WSL Python transport]
-    C --> D[Windows UI Automation]
-    D --> E[已有 ChatGPT 对话]
-    E --> F[等待生成完成]
-    F --> G[只复制一次新回复]
-    G --> H[Hermes paste file]
-    H --> I[可编辑输入框]
-```
 
 详细设计和安全不变量见 [Architecture](docs/ARCHITECTURE.md)。
 
