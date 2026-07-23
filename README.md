@@ -15,8 +15,7 @@
 
 40-second demonstration of the complete Hermes–ChatGPT collaboration workflow.
 
-40 秒演示：Hermes 输出发送至 ChatGPT，ChatGPT 回复自动返回 Hermes，并生成可编辑粘贴引用。
-
+https://github.com/cxisdawn/hermes-chatgpt-desktop-bridge/issues/1#issue-4954945783
 [demo](https://github.com/cxisdawn/hermes-chatgpt-desktop-bridge/issues/1#issue-4954945783)
 ## 核心能力
 
