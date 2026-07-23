@@ -11,7 +11,13 @@
 项目使用 Windows UI Automation，不使用 Codex CLI、OpenAI API、Cookie、访问令牌或 ChatGPT 私有网络接口。它不会绕过账号限制，所有请求仍受 ChatGPT 产品策略约束。
 
 > 当前版本：`1.8.0`。这是实验性桌面自动化，ChatGPT 或 Hermes 更新后可能需要重新适配。
+## Demo / 使用演示
 
+40-second demonstration of the complete Hermes–ChatGPT collaboration workflow.
+
+40 秒演示：Hermes 输出发送至 ChatGPT，ChatGPT 回复自动返回 Hermes，并生成可编辑粘贴引用。
+
+[demo](https://github.com/cxisdawn/hermes-chatgpt-desktop-bridge/issues/1#issue-4954945783)
 ## 核心能力
 
 - `/cg`：发送 Hermes 最新回复，并把 ChatGPT 回复填入 Hermes 输入框。
