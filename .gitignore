@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.zip
+paste_*.txt
+*.cg-backup-*
+*.before-cg-uninstall-*
